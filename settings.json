@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "aussiepom.aternos.host:58076",
+    "ip": "aussiepom.aternos.host",
     "port": 58076,
     "version": "",
     "try-creative": false
