@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LANDOFDEDS.aternos.me",
+    "ip": "aussiepom.aternos.host:58076",
     "port": 58076,
     "version": "",
     "try-creative": false
