@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LANDOFDEDS.aternos.me",
+    "ip": "stargazer.aternos.host",
     "port": 58076,
     "version": "",
     "try-creative": false
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "BIG HADES FROM THE WEST SIDE OF THE UNDERGROUND YA HEARD?",
         "I like to play Minecraft!"
       ]
     },
