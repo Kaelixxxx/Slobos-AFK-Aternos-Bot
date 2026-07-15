@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "stargazer.aternos.host",
+    "ip": "chimpanzee.aternos.host",
     "port": 58076,
     "version": "",
     "try-creative": false
