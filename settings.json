@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LANDOFDEDS.aternos.me",
+    "ip": "pleco.aternos.host",
     "port": 58076,
     "version": "",
     "try-creative": false
